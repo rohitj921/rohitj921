@@ -1,5 +1,4 @@
 
-
 <p align="center">
   <img src="./assets/banner.png" alt="Rohit Jain Banner" width="100%">
 </p>
@@ -147,7 +146,13 @@ Automation scripts using Spotify APIs for playlist synchronization and scheduled
 - Distributed Systems
 
 ---
+<p align="center">
 
+<img src="https://streak-stats.demolab.com?user=rohitj921&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
 ## GitHub Activity
 
 <p align="center">
