@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./assets/banner.png" alt="Rohit Jain Banner" width="100%">
+  <img src="./banner3.png" alt="Rohit Jain Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋 I'm Rohit Jain</h1>
