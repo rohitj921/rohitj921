@@ -48,7 +48,7 @@ Outside of work, I enjoy reverse engineering systems, exploring APIs and buildin
 - 🏛 Enterprise ERP Development
 - ⚙ Backend Engineering
 - 🗄 SQL Server & Database Design
-- 📄 Workflow & Document Management
+- 📄 Workflow Management
 - 📈 Performance Optimization
 - 🔒 Secure Application Development
 
