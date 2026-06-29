@@ -51,7 +51,6 @@ Outside of work, I enjoy reverse engineering systems, exploring APIs and buildin
 - 📄 Workflow Management
 - 📈 Performance Optimization
 - 🔒 Secure Application Development
-
 ---
 
 ## Featured Projects
@@ -85,19 +84,7 @@ A collaborative platform that helps students and professionals find teammates fo
 - MongoDB integration
 - Automated sentiment analysis
 - Google Gemini API fallback
-- AI-generated review summaries
-
----
-
-### 📈 JioMart Price & Stock Alert
-
-Automation platform built after reverse engineering JioMart APIs.
-
-- Price tracking
-- Stock monitoring
-- Google Sheets integration
-- HTML email alerts
-- Cloud automation
+- AI-assisted review summarization
 
 ---
 
@@ -105,23 +92,44 @@ Automation platform built after reverse engineering JioMart APIs.
 
 Automation utility that automatically detects WiFi disconnections and performs seamless re-authentication without user intervention.
 
+- Automatic captive portal authentication
+- Network monitoring and session recovery
+- Background automation using PowerShell
+- Zero user intervention after initial setup
+  
 ---
 
-### 🎵 Spotify Playlist Automation
+### 📈 JioMart Price & Stock Alert
 
-Automation scripts using Spotify APIs for playlist synchronization and scheduled updates.
+Automation platform built after reverse engineering JioMart APIs to monitor product availability and pricing.
 
+- Reverse engineered JioMart's private APIs
+- Automated price & stock monitoring with cloud scheduling
+- Google Sheets integration with HTML email alerts
+- Python CLI for product management
+
+---
+
+### 🎵 Spotify & YouTube Playlist Automation
+
+Automation platform for synchronizing playlists across Spotify and YouTube.
+
+- Spotify & YouTube API integration
+- Cross-platform playlist synchronization
+- Reverse engineered YouTube requests for large playlist imports
+- Cloud-hosted automation using Python, Flask & Selenium
+  
 ---
 
 ## Technical Skills
 
 | Category | Technologies |
 |----------|--------------|
-| **Languages** | C#, Python, SQL, JavaScript, HTML, CSS |
-| **Backend** | ASP.NET Core MVC (.NET 8), Entity Framework Core, LINQ, Flask, REST APIs |
-| **Database** | SQL Server, MongoDB, SQLite |
-| **Frontend** | Razor Views, Bootstrap, JavaScript, AJAX |
-| **Tools** | Git, GitHub, Visual Studio, SSMS, IIS, Jira, Postman |
+| **Languages** | C#, Python, SQL, JavaScript |
+| **Frameworks** | ASP.NET Core MVC (.NET 8), Entity Framework Core, Flask, Bootstrap |
+| **Database** | SQL Server, MongoDB, SQLite, Stored Procedures, Views, Functions |
+| **Backend** | LINQ, AutoMapper, REST APIs, AJAX |
+| **Tools** | Git, GitHub, Visual Studio, VS Code, SSMS, IIS, Postman, Selenium, PowerShell, Jira |
 
 ---
 
@@ -137,7 +145,7 @@ Automation scripts using Spotify APIs for playlist synchronization and scheduled
 
 ## Currently Learning
 
-- ASP.NET Core Web APIs
+- Advanced ASP.NET Core
 - Docker
 - Redis
 - Azure
