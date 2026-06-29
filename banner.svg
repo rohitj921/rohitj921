@@ -1,0 +1,57 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bg { fill: #0d1117; }
+      .win { fill: #11161d; stroke: #30363d; stroke-width: 1; }
+      .bar { fill: #161b22; }
+      .dot { fill: #4d5566; }
+      .mono { font-family: 'JetBrains Mono','Fira Code','Consolas',monospace; }
+      .prompt-user { fill: #3fb950; }
+      .prompt-sep { fill: #6e7681; }
+      .prompt-path { fill: #58a6ff; }
+      .prompt-sym { fill: #c9d1d9; }
+      .cmd { fill: #c9d1d9; }
+      .out-label { fill: #6e7681; }
+      .out-val { fill: #c9d1d9; }
+      .cursor { fill: #c9d1d9; }
+      .tag { fill: #8b949e; }
+      .accent { fill: #58a6ff; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="260" class="bg"/>
+
+  <!-- terminal window -->
+  <rect x="60" y="40" width="1080" height="180" rx="10" class="win"/>
+  <rect x="60" y="40" width="1080" height="34" rx="10" class="bar"/>
+  <rect x="60" y="56" width="1080" height="18" class="bar"/>
+
+  <circle cx="88" cy="57" r="5" class="dot"/>
+  <circle cx="106" cy="57" r="5" class="dot"/>
+  <circle cx="124" cy="57" r="5" class="dot"/>
+  <text x="600" y="62" text-anchor="middle" class="mono tag" font-size="13">rohit@dev — backend</text>
+
+  <!-- terminal body -->
+  <g class="mono" font-size="20">
+    <text x="92" y="118">
+      <tspan class="prompt-user">rohit</tspan><tspan class="prompt-sep">@dev</tspan><tspan class="prompt-sym">:</tspan><tspan class="prompt-path">~</tspan><tspan class="prompt-sym">$ </tspan><tspan class="cmd">whoami --role</tspan>
+    </text>
+
+    <text x="92" y="154" font-size="22" font-weight="600">
+      <tspan class="out-val">Software Engineer</tspan><tspan class="out-label"> · Backend Developer</tspan>
+    </text>
+
+    <text x="92" y="186" font-size="16">
+      <tspan class="out-label">stack:</tspan>
+      <tspan class="accent" dx="10">ASP.NET Core</tspan><tspan class="out-label">,</tspan>
+      <tspan class="accent" dx="6">.NET 8</tspan><tspan class="out-label">,</tspan>
+      <tspan class="accent" dx="6">C#</tspan><tspan class="out-label">,</tspan>
+      <tspan class="accent" dx="6">SQL Server</tspan><tspan class="out-label">,</tspan>
+      <tspan class="accent" dx="6">Python</tspan>
+    </text>
+
+    <text x="92" y="206">
+      <tspan class="prompt-user">rohit</tspan><tspan class="prompt-sep">@dev</tspan><tspan class="prompt-sym">:</tspan><tspan class="prompt-path">~</tspan><tspan class="prompt-sym">$ </tspan><tspan class="cursor">█</tspan>
+    </text>
+  </g>
+</svg>
