@@ -142,18 +142,6 @@ Automation platform for synchronizing playlists across Spotify and YouTube.
 - Keep software simple wherever possible.
 
 ---
-
-## Currently Learning
-
-- Advanced ASP.NET Core
-- Docker
-- Redis
-- Azure
-- Unit Testing (xUnit)
-- System Design
-- Distributed Systems
-
----
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=rohitj921&theme=github-dark&hide_border=true"/>
@@ -161,6 +149,7 @@ Automation platform for synchronizing playlists across Spotify and YouTube.
 </p>
 
 ---
+
 ## GitHub Activity
 
 <p align="center">
